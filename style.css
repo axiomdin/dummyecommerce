@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.dressesimg{
+    background-color: #f1f1f1;
+    margin-top: 30px;
+    border-radius: 8px;
+    height: 300px;
+    width: 250px;
+    padding: 10px;
+}
+
+.dressesimg img{
+    height: 100%;
+    width: 100%;
+}
+
+.card-body{
+        padding-left: 35px;     
+    }
+
+.card_p{
+        font-size: 32px;
+        font-weight: bold;
+    }
+    
+.card{ 
+        border: unset; 
+        }
+    
